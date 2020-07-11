@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying Computer Vision and doing some cool stuff 🤖
-- 📫 How to reach me: hologerry AT EVERYWHERE
+- 📫 How to reach me: hologerry
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🍎 fan
