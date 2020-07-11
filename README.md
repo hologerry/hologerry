@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Music is the Power
 -->
 
-- 🔭 I’m currently studying Computer Vision
-- ⭐️ I’m currently working as a research intern at MSRA and doing some cool stuff 🤖
-- 🌱 I’m currently learning at Peking University
+- 🔭 I’m currently studying Computer Vision and doing some cool stuff 🤖
 - 📫 How to reach me: E-mail
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🍎 fans
