@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 🍎 fan
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
