@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hologerry
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🍎 fan
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
