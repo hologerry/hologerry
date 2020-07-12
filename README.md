@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🍎 fan
 
+
+📊 **This week I spent my time on**
+
 <!--START_SECTION:waka-->
 ```text
 
