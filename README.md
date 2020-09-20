@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hologerry&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 🔭 I’m currently studying Computer Vision and doing some cool stuff 🤖
-- 📫 How to reach me: hologerry
+- 📫 How to reach me: hologerry :snowflake:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🍎 fan
 
