@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python         43 hrs 9 mins   ████████████████████▒░░░░   81.12 % 
-TeX            8 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Text           1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Git Config     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-OpenEdge ABL   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python       17 hrs 28 mins  ████████████████████████▓   98.56 % 
+Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
