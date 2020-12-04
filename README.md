@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   22 hrs 28 mins  ████████████▒░░░░░░░░░░░░   49.96 % 
-TeX      22 hrs 17 mins  ████████████▒░░░░░░░░░░░░   49.56 % 
-Text     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-BibTeX   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python       7 hrs 52 mins   ████████████████████████░   96.66 % 
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
