@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently studying Computer Vision and doing some cool stuff 🤖
-- 📫 How to reach me: hologerry :snowflake:
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: 🍎 fan
+- 🎓 [Google Schoolar](https://scholar.google.com/citations?user=3ykqW9wAAAAJ&hl=en)
 
 
 📊 **This week I spent my time on**
