@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 58 mins    ████████████████████████░   95.68 % 
-Docker   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Python   1 hr 41 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
