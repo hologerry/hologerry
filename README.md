@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python        18 hrs 33 mins  ████████████████▒░░░░░░░░   65.90 %
-Bash          6 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-YAML          2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Text          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Standard ML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python        16 hrs 41 mins  ████████████████▒░░░░░░░░   65.73 %
+Bash          6 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
+YAML          2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Text          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Standard ML   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
