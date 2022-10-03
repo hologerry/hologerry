@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   43 mins         ██████████████▒░░░░░░░░░░   57.82 %
-Bash     25 mins         ████████▓░░░░░░░░░░░░░░░░   34.41 %
-YAML     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
