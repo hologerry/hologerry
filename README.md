@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     1 hr 35 mins    ██████████████████████░░░   88.38 %
+JSON       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Bash       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
