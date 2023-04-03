@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python         13 hrs 59 mins  █████████████▓░░░░░░░░░░░   54.63 %
-TeX            3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Bash           2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Text           2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-YAML           2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-OpenEdge ABL   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Python         17 hrs 41 mins  ████████████▓░░░░░░░░░░░░   50.31 %
+TeX            7 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+Bash           3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Text           2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+YAML           2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+OpenEdge ABL   1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
