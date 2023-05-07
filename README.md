@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML   3 mins          █████████████▒░░░░░░░░░░░   53.11 %
-YAML   3 mins          ███████████▓░░░░░░░░░░░░░   46.89 %
+HTML     3 mins          █████████▓░░░░░░░░░░░░░░░   38.56 %
+YAML     3 mins          █████████░░░░░░░░░░░░░░░░   35.39 %
+Bash     2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
