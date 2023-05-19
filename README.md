@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 37 mins  ██████████████████░░░░░░░   72.35 %
-Bash         3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-YAML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-SSH Config   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-INI          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python       6 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.12 %
+Bash         4 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.61 %
+YAML         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+SSH Config   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+INI          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
