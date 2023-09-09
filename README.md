@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     24 hrs 5 mins   ███████████████▓░░░░░░░░░   62.30 %
-Bash       10 hrs 59 mins  ███████░░░░░░░░░░░░░░░░░░   28.44 %
-YAML       1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Text       1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Prolog     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python     32 hrs 6 mins   ████████████████░░░░░░░░░   64.15 %
+Bash       13 hrs 27 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+YAML       2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Text       1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+GDScript   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
